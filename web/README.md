@@ -5,10 +5,10 @@
 
 И можно создать несколько одинаковых вопросов, обработчик это всё успешно схавает.
 
-**Код: [ucp.php](https://github.com/atorisen/stalker-rp-analysis/web/ucp.php)**
+**Код: [ucp.php](https://github.com/atorisen/stalker-rp-analysis/blob/main/web/ucp.php)**
 
 ---
 
 На бета версии сайта всё ещё проще - просто отправляется post запрос на регистрацию.
 
-**Код: [ucp-beta.py](https://github.com/atorisen/stalker-rp-analysis/web/ucp-beta.py)**
+**Код: [ucp-beta.py](https://github.com/atorisen/stalker-rp-analysis/blob/main/web/ucp-beta.py)**
