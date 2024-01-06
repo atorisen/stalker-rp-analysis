@@ -22,4 +22,4 @@
 ## Api
 Также я хотел бы выложить свою документацию к неофициальному api проекта.
 
-**Ссылка на документацию к API: [API](https://github.com/atorisen/stalker-rp-analysis/api.md)**
+**Ссылка на документацию к API: [API](https://github.com/atorisen/stalker-rp-analysis/API.md)**
